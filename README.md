@@ -5,9 +5,9 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anandman03" alt="anandman03" /></a> </p> -->
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **C++**
 
-- 💬 Ask me about **Data Structures, Algorithms, C++, Python, Data Science ,Machine Learning**
+- 💬 Ask me about **Data Structures, Algorithms, C++, Python, Data Science, Machine Learning**
 
 - 📫 How to reach me **anandmansimar@gmail.com**
 
