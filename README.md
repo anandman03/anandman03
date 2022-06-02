@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mansimar</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=anandman03&label=Profile%20views&color=0e75b6&style=flat" alt="anandman03" /> </p> -->
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **ReactJS, ExpressJS, Redis, Data Structures, Algorithms, Machine Learning**
+- 💬 Ask me about **Data Structures, Algorithms, C++, Python, Data Science ,Machine Learning**
 
 - 📫 How to reach me **anandmansimar@gmail.com**
 
